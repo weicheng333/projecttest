@@ -1,0 +1,13 @@
+dist
+node_modules
+package.json
+
+# 其他类型文件
+*.js
+*.jsx
+*.jpg
+*.png
+*.eot
+*.ttf
+*.woff
+*.json
